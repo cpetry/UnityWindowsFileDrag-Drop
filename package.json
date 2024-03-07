@@ -1,0 +1,17 @@
+{
+    "name": "com.cpetry.filedraganddrop",
+    "version": "1.0.0",
+    "displayName": "FileDragAndDrop",
+    "description": "File Drag & Drop - Fork of Bunny83 repository",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/cpetry/UnityWindowsFileDrag-Drop",
+    "changelogUrl": "https://github.com/cpetry/UnityWindowsFileDrag-Drop",
+    "licensesUrl": "https://github.com/cpetry/UnityWindowsFileDrag-Drop",
+    "dependencies": {},
+    "keywords": [
+      "FileDragAndDrop"
+    ],
+    "author": {
+      "name": "cpetry"
+    }
+  }
